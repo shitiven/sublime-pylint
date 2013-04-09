@@ -3,13 +3,18 @@ Sublime Text2 Pylint Plugin
 
 This is a Sublime Text 2 package that will run Pylint against Python files being edited and highlight the warnings returned.
 
-Requires
+Requirements
 --------
-The package requires [Pylint](https://pypi.python.org/pypi/pylint) to already be installed and in a place where Python can find it, e.g. ```/usr/bin```
+The package requires [Pylint](https://pypi.python.org/pypi/pylint) to already be installed 
 
-#### Windows
+* Unix 
 
-Install Pylint and set Python Path in SYSTEM PATH
+  Install Pylint a place where Python can find it, e.g. ```/usr/bin```
+
+* Windows 
+
+  Install Pylint and set Python Path in SYSTEM PATH
+
 
 Installation
 ------------
