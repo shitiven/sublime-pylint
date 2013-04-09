@@ -1,4 +1,4 @@
-sublime Text2 Pylint Plugin
+Sublime Text2 Pylint Plugin
 ==============
 
 This is a Sublime Text 2 package that will run Pylint against Python files being edited and highlight the warnings returned.
